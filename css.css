@@ -1,0 +1,40 @@
+﻿body
+{
+    background: none repeat scroll 0 0 #1D1D1D;
+    color: #ffffff;
+    font-family: "Segoe UI Light", "Segoe UI", "Segoe WP Light", "Segoe Keycaps", "Segoe WP", "Helvetica", Arial, sans-serif;
+    font-weight: 300;
+    height:100%;
+    overflow:hidden;
+    width:100%;
+    margin:0;
+}
+
+img a {
+    border-style: none;
+    border-width: 0px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration:none;
+}
+
+    a:hover {
+        color: #838381;
+    }
+
+.header {
+    width: 100%;
+    margin-top:10px;
+}
+
+    .header .logo {
+        float: left;
+        margin-left:15px;
+    }
+
+    .header .facebook {
+        float: right;
+        margin-right:15px;
+    }
